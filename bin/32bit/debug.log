@@ -1,0 +1,21 @@
+28/05/2017 15:41:41 - Application starting
+28/05/2017 15:41:41 - Windir: C:\Windows
+28/05/2017 15:41:41 - Aircrack-ng GUI v1.0.0.7
+28/05/2017 15:42:20 - Application closing
+28/05/2017 18:54:19 - Application starting
+28/05/2017 18:54:19 - Windir: C:\Windows
+28/05/2017 18:54:19 - Aircrack-ng GUI v1.0.0.7
+28/05/2017 18:54:33 - Launch command: "C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\aircrack-ng.exe" -a 1 -n 128 -s "C:\Users\walid\Documents\CommView for WiFi\LOGS\ZINO.CAP"
+28/05/2017 18:54:33 - File <C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\aircrack-ng.exe> does not exist
+28/05/2017 18:55:34 - Aircrack-ng - Missing capture file(s) to crack
+28/05/2017 18:55:48 - Launch command: "C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\airdecap-ng.exe" -l -e ZINO-p "C:\Users\walid\Documents\CommView for WiFi\LOGS\ZINO.CAP"
+28/05/2017 18:56:51 - Application closing
+30/05/2017 04:31:21 - Application starting
+30/05/2017 04:31:22 - Windir: C:\Windows
+30/05/2017 04:31:22 - Aircrack-ng GUI v1.0.0.7
+30/05/2017 04:32:11 - Launch command: "C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\aircrack-ng.exe" -a 1 -n 128 -s "D:\Nouveau dossier\GEFORCE.CAP"
+30/05/2017 04:32:11 - File <C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\aircrack-ng.exe> does not exist
+30/05/2017 04:32:22 - File <> does not exist
+30/05/2017 04:32:44 - Launch command: "C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\aircrack-ng.exe" -a 2 -w "E:\Nouveau dossier\WOLD LISTE + CAP FILLE\rockyou.txt" "D:\Nouveau dossier\GEFORCE.CAP"
+30/05/2017 04:32:44 - File <C:\Users\walid\Desktop\aircrack-ng-1.2-rc4-win\bin\32bit\aircrack-ng.exe> does not exist
+30/05/2017 04:33:00 - Application closing
